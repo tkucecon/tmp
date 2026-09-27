@@ -7,7 +7,7 @@ library(tidyverse)
 # ==========================================
 
 # APIキーの設定（取得した自身のAPIキーに置き換えてください）
-set_primary_comtrade_key("5f1791d2356e4129aa0a17f93ff33904")
+set_primary_comtrade_key("")
 
 # 対象とするHSコード（6桁）の設定
 # 270900: 原油 (Petroleum oils and oils obtained from bituminous minerals, crude)
